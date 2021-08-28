@@ -1,0 +1,19 @@
+﻿
+table, td, tr {
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+  
+tr, td {
+    padding: 15px;z
+}
+#nn
+{
+	list-style-type: none;
+}
+table:hover
+{
+	box-shadow: 1px 2px 4px 8px red;
+}
+
+  
